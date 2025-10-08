@@ -26,31 +26,30 @@ This repository explores healthcare data from multiple perspectives using **Exce
 | **Python** | Advanced analytics, automation, EDA, and predictive modeling |
 
 ---
-
 ## 📁 Repository Structure
 
-healthcare/
-│
-├── Excel/                     # Excel-based analysis and visualizations
-│   ├── Data_Cleaning.xlsx
-│   ├── Patient_Analysis.xlsx
-│   └── Hospital_KPIs.xlsx
-│
-├── SQL/                       # SQL scripts for data querying and insights
-│   ├── patient_queries.sql
-│   ├── hospital_analysis.sql
-│   └── trend_insights.sql
-│
-├── PowerBI/                   # Power BI dashboards and reports
-│   ├── Healthcare_Dashboard.pbix
-│   ├── Cost_Analysis.pbix
-│   └── Readme_PowerBI.md
-│
-├── Python/                    # Python scripts and notebooks
-│   ├── EDA_Healthcare.ipynb
-│   ├── Data_Cleaning.py
-│   ├── Visualization_Insights.ipynb
-│   └── ML_Disease_Prediction.ipynb
-│
-└── README.md                  # Documentation
+- **Excel** – Excel-based analysis and visualizations  
+  - Data_Cleaning.xlsx  
+  - Patient_Analysis.xlsx  
+  - Hospital_KPIs.xlsx  
+
+- **SQL** – SQL scripts for data querying and insights  
+  - patient_queries.sql  
+  - hospital_analysis.sql  
+  - trend_insights.sql  
+
+- **Power BI** – Power BI dashboards and reports  
+  - Healthcare_Dashboard.pbix  
+  - Cost_Analysis.pbix  
+  - Readme_PowerBI.md  
+
+- **Python** – Python scripts and notebooks  
+  - EDA_Healthcare.ipynb  
+  - Data_Cleaning.py  
+  - Visualization_Insights.ipynb  
+  - ML_Disease_Prediction.ipynb  
+
+- **README.md** – Documentation for the repository
+
+
 
