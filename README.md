@@ -28,24 +28,24 @@ This repository explores healthcare data from multiple perspectives using **Exce
 ---
 
 ## **Repository Structure**
-healthcare/
+| **healthcare**/ |
 │
-├── Excel/ # Excel-based analysis and visualizations
+├── **Excel**/ # Excel-based analysis and visualizations
 │ ├── Data_Cleaning.xlsx
 │ ├── Patient_Analysis.xlsx
 │ └── Hospital_KPIs.xlsx
 │
-├── SQL/ # SQL scripts for data querying and insights
+├── **SQL**/ ## *SQL scripts for data querying and insights
 │ ├── patient_queries.sql
 │ ├── hospital_analysis.sql
 │ └── trend_insights.sql
 │
-├── PowerBI/ # Power BI dashboards and reports
+├── **PowerBI**/ # Power BI dashboards and reports
 │ ├── Healthcare_Dashboard.pbix
 │ ├── Cost_Analysis.pbix
 │ └── Readme_PowerBI.md
 │
-├── Python/ # Python scripts and notebooks
+├── **Python**/ # Python scripts and notebooks
 │ ├── EDA_Healthcare.ipynb
 │ ├── Data_Cleaning.py
 │ ├── Visualization_Insights.ipynb
